@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="755"
+   viewBox="0 0 1920 755"
+   fill="none"
+   version="1.1"
+   id="svg850"
+   sodipodi:docname="child-care-template-light-yellow-shape-bg.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="namedview852"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.39010417"
+     inkscape:cx="860.0267"
+     inkscape:cy="788.251"
+     inkscape:window-width="1312"
+     inkscape:window-height="1003"
+     inkscape:window-x="2689"
+     inkscape:window-y="193"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg850" />
+  <path
+     d="M0 2.50001C0 2.50001 512.5 -55 641 437.5C769.5 930 1186.5 674.5 1443.5 551.5C1700.5 428.5 1920 618 1920 618V755H0V2.50001Z"
+     fill="#F2F3FA"
+     id="path848" />
+  <path
+     style="fill:#fff7c7;stroke-width:2.56342;fill-opacity:1"
+     d="M 0,379.70628 V 4.4859813 L 8.0106809,2.8838451 C 12.416555,2.0026702 30.58478,1.282673 48.384513,1.2838514 150.6681,1.2906189 256.29126,23.898267 343.20387,64.387164 433.49796,106.45135 514.06488,177.93472 566.54163,262.54467 c 29.9621,48.30887 52.49616,101.54642 72.78384,171.95466 16.08068,55.80781 25.30086,81.22756 42.41024,116.92395 51.95484,108.39656 126.43266,164.72426 232.40869,175.77098 67.44717,7.03056 157.6661,-9.93981 255.389,-48.03917 56.4376,-22.00338 82.6303,-33.84001 195.4866,-88.34135 136.777,-66.05326 166.4237,-75.7255 240.9613,-78.6136 78.9936,-3.06074 151.351,13.35446 226.8625,51.46672 29.6733,14.97672 59.4995,33.32371 76.2617,46.91088 L 1920,619.40866 v 67.75896 67.75895 H 960 0 Z"
+     id="path1787" />
+</svg>
